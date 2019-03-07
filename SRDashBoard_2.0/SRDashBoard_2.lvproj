@@ -20,8 +20,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Resources" Type="Folder">
-			<Item Name="UserInterface.vi" Type="VI" URL="../UserInterface.vi"/>
+		<Item Name="Resources" Type="Folder" URL="../Resources">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 		<Item Name="Controller.lvlib" Type="Library" URL="../CodeModules/Controller/Controller.lvlib"/>
