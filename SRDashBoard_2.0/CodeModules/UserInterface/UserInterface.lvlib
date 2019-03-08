@@ -16,6 +16,7 @@
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="FGVQ" Type="Folder">
 			<Item Name="FGVQ.vi" Type="VI" URL="../FGVQ.vi"/>
 			<Item Name="InitilizeQ.vi" Type="VI" URL="../InitilizeQ.vi"/>
@@ -27,6 +28,7 @@
 		</Item>
 		<Item Name="TypeDefs" Type="Folder">
 			<Item Name="InternalData.ctl" Type="VI" URL="../InternalData.ctl"/>
+			<Item Name="OracleRequestParameters.ctl" Type="VI" URL="../OracleRequestParameters.ctl"/>
 			<Item Name="MessageData.ctl" Type="VI" URL="../MessageData.ctl"/>
 			<Item Name="States_FGVQ.ctl" Type="VI" URL="../States_FGVQ.ctl"/>
 			<Item Name="States_Module.ctl" Type="VI" URL="../States_Module.ctl"/>

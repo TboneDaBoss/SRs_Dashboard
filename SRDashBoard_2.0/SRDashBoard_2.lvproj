@@ -28,7 +28,6 @@
 		<Item Name="ErrorHandler.lvlib" Type="Library" URL="../CodeModules/ErrorHandler/ErrorHandler.lvlib"/>
 		<Item Name="StopUE.lvlib" Type="Library" URL="../UserEvents/StopUE.lvlib"/>
 		<Item Name="UserInterface.lvlib" Type="Library" URL="../CodeModules/UserInterface/UserInterface.lvlib"/>
-		<Item Name="OracleRequestParameters.ctl" Type="VI" URL="../CodeModules/UserInterface/OracleRequestParameters.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
@@ -50,7 +49,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6D6E24D5-3016-4F01-9932-723007A24C2F}</Property>
-				<Property Name="Bld_version.build" Type="Int">3</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">DashBoard2.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/GenericBuildSpecification/DashBoard2.exe</Property>

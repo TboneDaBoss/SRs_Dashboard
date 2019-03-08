@@ -27,6 +27,7 @@
 		<Item Name="TypeDefs" Type="Folder">
 			<Item Name="InternalData.ctl" Type="VI" URL="../InternalData.ctl"/>
 			<Item Name="MessageData.ctl" Type="VI" URL="../MessageData.ctl"/>
+			<Item Name="OracleRequestParameters.ctl" Type="VI" URL="../OracleRequestParameters.ctl"/>
 			<Item Name="States_FGVQ.ctl" Type="VI" URL="../States_FGVQ.ctl"/>
 			<Item Name="States_Module.ctl" Type="VI" URL="../States_Module.ctl"/>
 		</Item>
