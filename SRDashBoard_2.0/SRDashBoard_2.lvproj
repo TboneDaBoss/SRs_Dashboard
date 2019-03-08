@@ -28,6 +28,7 @@
 		<Item Name="ErrorHandler.lvlib" Type="Library" URL="../CodeModules/ErrorHandler/ErrorHandler.lvlib"/>
 		<Item Name="StopUE.lvlib" Type="Library" URL="../UserEvents/StopUE.lvlib"/>
 		<Item Name="UserInterface.lvlib" Type="Library" URL="../CodeModules/UserInterface/UserInterface.lvlib"/>
+		<Item Name="OracleRequestParameters.ctl" Type="VI" URL="../CodeModules/UserInterface/OracleRequestParameters.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
