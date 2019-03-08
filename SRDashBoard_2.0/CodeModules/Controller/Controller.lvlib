@@ -10,6 +10,7 @@
 	<Item Name="API" Type="Folder">
 		<Item Name="DoSomething.vi" Type="VI" URL="../DoSomething.vi"/>
 		<Item Name="Initialize.vi" Type="VI" URL="../Initialize.vi"/>
+		<Item Name="RequestOracleReport.vi" Type="VI" URL="../RequestOracleReport.vi"/>
 		<Item Name="Shutdown.vi" Type="VI" URL="../Shutdown.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
@@ -32,5 +33,4 @@
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 	</Item>
 	<Item Name="Interface.vi" Type="VI" URL="../Interface.vi"/>
-	<Item Name="Untitled 19.vi" Type="VI" URL="../../../temp/Untitled 19.vi"/>
 </Library>

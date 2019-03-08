@@ -8,8 +8,10 @@
 
 </Property>
 	<Item Name="API" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="DoSomething.vi" Type="VI" URL="../DoSomething.vi"/>
 		<Item Name="Initialize.vi" Type="VI" URL="../Initialize.vi"/>
+		<Item Name="RequestOracleReport.vi" Type="VI" URL="../RequestOracleReport.vi"/>
 		<Item Name="Shutdown.vi" Type="VI" URL="../Shutdown.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
