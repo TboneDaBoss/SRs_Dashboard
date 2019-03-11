@@ -24,6 +24,8 @@
 			<Item Name="Dequeue.vi" Type="VI" URL="../Dequeue.vi"/>
 			<Item Name="GetLastError.vi" Type="VI" URL="../GetLastError.vi"/>
 			<Item Name="SendOracleRequest.vi" Type="VI" URL="../SendOracleRequest.vi"/>
+			<Item Name="SetSRCreationDateEnd(SubVI).vi" Type="VI" URL="../SetSRCreationDateEnd(SubVI).vi"/>
+			<Item Name="SetSRCreationDateStart(SubVI).vi" Type="VI" URL="../SetSRCreationDateStart(SubVI).vi"/>
 		</Item>
 		<Item Name="TypeDefs" Type="Folder">
 			<Item Name="InternalData.ctl" Type="VI" URL="../InternalData.ctl"/>
