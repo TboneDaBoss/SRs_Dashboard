@@ -33,7 +33,6 @@
 			<Item Name="States_FGVQ.ctl" Type="VI" URL="../States_FGVQ.ctl"/>
 			<Item Name="States_Module.ctl" Type="VI" URL="../States_Module.ctl"/>
 		</Item>
-		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 	</Item>
-	<Item Name="Interface.vi" Type="VI" URL="../Interface.vi"/>
+	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>
