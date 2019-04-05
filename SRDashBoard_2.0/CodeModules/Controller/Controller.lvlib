@@ -8,8 +8,8 @@
 
 </Property>
 	<Item Name="API" Type="Folder">
-		<Item Name="DoSomething.vi" Type="VI" URL="../DoSomething.vi"/>
 		<Item Name="Initialize.vi" Type="VI" URL="../Initialize.vi"/>
+		<Item Name="ProcessXLS.vi" Type="VI" URL="../ProcessXLS.vi"/>
 		<Item Name="RequestOracleReport.vi" Type="VI" URL="../RequestOracleReport.vi"/>
 		<Item Name="Shutdown.vi" Type="VI" URL="../Shutdown.vi"/>
 	</Item>
