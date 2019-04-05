@@ -26,6 +26,7 @@
 			<Item Name="SendOracleRequest.vi" Type="VI" URL="../SendOracleRequest.vi"/>
 			<Item Name="SetSRCreationDateEnd(SubVI).vi" Type="VI" URL="../SetSRCreationDateEnd(SubVI).vi"/>
 			<Item Name="SetSRCreationDateStart(SubVI).vi" Type="VI" URL="../SetSRCreationDateStart(SubVI).vi"/>
+			<Item Name="XLSFormatter.vi" Type="VI" URL="../XLSFormatter.vi"/>
 		</Item>
 		<Item Name="TypeDefs" Type="Folder">
 			<Item Name="Internal" Type="Folder">

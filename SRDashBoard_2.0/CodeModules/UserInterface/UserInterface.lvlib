@@ -9,11 +9,12 @@
 </Property>
 	<Item Name="API" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
-		<Item Name="LoadReport.vi" Type="VI" URL="../LoadReport.vi"/>
+		<Item Name="RedrawTables.vi" Type="VI" URL="../RedrawTables.vi"/>
 		<Item Name="Initialize.vi" Type="VI" URL="../Initialize.vi"/>
 		<Item Name="RequestOracleReport.vi" Type="VI" URL="../RequestOracleReport.vi"/>
 		<Item Name="Shutdown.vi" Type="VI" URL="../Shutdown.vi"/>
 		<Item Name="DoSomething.vi" Type="VI" URL="../DoSomething.vi"/>
+		<Item Name="LoadReport.vi" Type="VI" URL="../LoadReport.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
