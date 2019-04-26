@@ -12,6 +12,7 @@
 		<Item Name="ProcessXLS.vi" Type="VI" URL="../ProcessXLS.vi"/>
 		<Item Name="RequestOracleReport.vi" Type="VI" URL="../RequestOracleReport.vi"/>
 		<Item Name="Shutdown.vi" Type="VI" URL="../Shutdown.vi"/>
+		<Item Name="SRarray2cluster.vi" Type="VI" URL="../SRarray2cluster.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
