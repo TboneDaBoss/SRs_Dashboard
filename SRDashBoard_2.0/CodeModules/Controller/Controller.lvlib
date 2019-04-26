@@ -46,4 +46,7 @@
 	<Item Name="str2Date.vi" Type="VI" URL="../str2Date.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="UTF8_ASCI.vi" Type="VI" URL="../UTF8_ASCI.vi">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
 </Library>
