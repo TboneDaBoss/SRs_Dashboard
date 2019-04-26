@@ -42,6 +42,7 @@
 		</Item>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+	<Item Name="NeglectedDetector.vi" Type="VI" URL="../NeglectedDetector.vi"/>
 	<Item Name="str2Date.vi" Type="VI" URL="../str2Date.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
